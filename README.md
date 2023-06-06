@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=black" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Recursion!-white?style=for-the-badge&logo=github&logoColor=black" alt="Youtube Badge"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=JoshuaSheng&style=flat-square&color=blue" alt=""/>
