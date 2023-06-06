@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Recursion!-white?style=for-the-badge&logo=github&logoColor=black" alt="Youtube Badge"/>
   </a>
   <a href="https://joshuasheng.com/googAlmost/">
-    <img src="https://img.shields.io/badge/Google\?-white?style=for-the-badge&logo=google&logoColor=blue" alt="Google Badge?"/>
+    <img src="https://img.shields.io/badge/Almost Google-white?style=for-the-badge&logo=google&logoColor=blue" alt="Google Badge?"/>
   </a>
 </div>
 <div align="center">
