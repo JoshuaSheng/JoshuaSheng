@@ -38,11 +38,13 @@ I'm a third-year CS and Finance student at the University of Waterloo!
 
 # Things I've done...
 
-- :bank: Software Engineer on the Equity Swaps team @ Bank of America
+- 💸 Software Engineer on the Equity Swaps team @ Bank of America
 
 - 🧑‍🔬Researched Databases and Relational Algebra as a Undergraduate Research Assistant @ UWaterloo
 
 - :loudspeaker: Software Engineer on the Ad Exchange team @ Freestar
+
+- 👷 Support Engineer on the Technical Solutions team @ Sortable
 
 # Feel free to reach out!
 
