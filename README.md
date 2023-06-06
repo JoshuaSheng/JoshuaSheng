@@ -5,7 +5,7 @@
   <a href="linkedin.com/in/joshuasheng1">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/JoshuaSheng/JoshuaSheng/blob/main/README.md">
+  <a href="https://github.com/JoshuaSheng">
     <img src="https://img.shields.io/badge/Recursion!-white?style=for-the-badge&logo=github&logoColor=black" alt="Youtube Badge"/>
   </a>
   <a href="https://joshuasheng.com/googAlmost/">
