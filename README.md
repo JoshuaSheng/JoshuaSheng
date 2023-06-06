@@ -22,4 +22,8 @@
 </div>
 ---
 
-### :woman_technologist: About Me :
+### :technologist: About Me :
+
+I'm a third-year university student at the University of Waterloo! 
+
+(I also moonlight as a software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">)
