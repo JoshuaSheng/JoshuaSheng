@@ -8,8 +8,8 @@
   <a href="https://github.com/JoshuaSheng/JoshuaSheng/blob/main/README.md">
     <img src="https://img.shields.io/badge/Recursion!-white?style=for-the-badge&logo=github&logoColor=black" alt="Youtube Badge"/>
   </a>
-  <a href="joshuasheng.com/googAlmost">
-    <img src="https://img.shields.io/badge/Google?-blue?style=for-the-badge&logo=google&logoColor=white" alt="Google Badge?"/>
+  <a href="https://joshuasheng.com/googAlmost/">
+    <img src="https://img.shields.io/badge/Google-blue?style=for-the-badge&logo=google&logoColor=blue" alt="Google Badge?"/>
   </a>
 </div>
 <div align="center">
