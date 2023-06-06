@@ -24,6 +24,24 @@
 
 ### :technologist: About Me :
 
-I'm a third-year university student at the University of Waterloo! 
+I'm a third-year CS and Finance student at the University of Waterloo! 
 
-(I also moonlight as a software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">)
+(I also moonlight as a <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> professional computer wizard)
+
+# Right now I'm...
+
+- :telescope: Building the future of startup financing as a Software Engineer Intern with @carta.
+
+- :seedling: Dreaming about living on a farm.
+
+- :mailbox_with_mail: Working on a better way to source opportunities and internships
+
+# Things I've done...
+
+- :bank: Moved crazy amounts of money as a SWE on the Equity Swaps team @ Bank of America
+- 🧑‍🔬Researched Databases and Relational Algebra as a Undergraduate Research Assistant @ UWaterloo
+- :loudspeaker: Displayed billions of ads as a SWE on the Ad Exchange team @ Freestar
+
+#Interested?
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/joshuasheng1)
