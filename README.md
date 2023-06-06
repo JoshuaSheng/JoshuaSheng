@@ -32,16 +32,18 @@ I'm a third-year CS and Finance student at the University of Waterloo!
 
 - :telescope: Building the future of startup financing as a Software Engineer Intern with @carta.
 
-- :seedling: Dreaming about living on a farm.
+- :robot: Teaching myself AI and ML with d2l.ai
 
-- :mailbox_with_mail: Working on a better way to source opportunities and internships
+- :seedling: Dreaming about living on a farm.
 
 # Things I've done...
 
-- :bank: Moved crazy amounts of money as a SWE on the Equity Swaps team @ Bank of America
-- 🧑‍🔬Researched Databases and Relational Algebra as a Undergraduate Research Assistant @ UWaterloo
-- :loudspeaker: Displayed billions of ads as a SWE on the Ad Exchange team @ Freestar
+- :bank: Software Engineer on the Equity Swaps team @ Bank of America
 
-#Interested?
+- 🧑‍🔬Researched Databases and Relational Algebra as a Undergraduate Research Assistant @ UWaterloo
+
+- :loudspeaker: Software Engineer on the Ad Exchange team @ Freestar
+
+# Feel free to reach out!
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/joshuasheng1)
