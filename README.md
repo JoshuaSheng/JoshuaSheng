@@ -51,4 +51,4 @@ I'm a third-year CS and Finance student at the University of Waterloo!
 
 # Feel free to reach out!
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/joshuasheng1)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Josh!-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/joshuasheng1)
