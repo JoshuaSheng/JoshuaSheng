@@ -27,9 +27,7 @@
 
 ### :technologist: About Me :
 
-I'm a third-year CS and Finance student at the University of Waterloo! 
-
-(I also moonlight as a <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> professional computer wizard)
+I'm a third-year CS and Finance student at the University of Waterloo<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">! 
 
 # Right now I'm...
 
