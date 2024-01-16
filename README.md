@@ -31,11 +31,11 @@ I'm a third-year CS and Finance student at the University of Waterloo<img src="h
 
 # Right now I'm...
 
-- :telescope: Building the future of startup financing as a Software Engineer Intern with @carta.
+- :telescope: Building a persistent key-value store called [MangoDB](https://github.com/JoshuaSheng/MangoDB). Check it out!
 
-- :robot: Teaching myself AI and ML with d2l.ai
+- :robot: Learning C++20 with learncpp.com
 
-- :seedling: Dreaming about living on a farm.
+- :seedling: Still dreaming about small towns and country life.
 
 # Things I've done...
 
