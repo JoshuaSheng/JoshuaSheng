@@ -39,6 +39,10 @@ I'm a third-year CS and Finance student at the University of Waterloo<img src="h
 
 # Things I've done...
 
+- 🍎 Data Engineer on the Learning Management Systems @ Coursera
+
+- 🏦 Software Engineer on the Tax Platforms team @ Carta
+
 - 💸 Software Engineer on the Equity Swaps team @ Bank of America
 
 - 🧑‍🔬Researched Databases and Relational Algebra as a Undergraduate Research Assistant @ UWaterloo
